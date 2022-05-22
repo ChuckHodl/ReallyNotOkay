@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5913a7c4.css",
+    "main.js": "/static/js/main.2cced468.js",
+    "static/media/notokay_v2.png": "/static/media/notokay_v2.b88314e88cfc2d5a770f.png",
+    "static/media/NotOkay_400x400.jpg": "/static/media/NotOkay_400x400.af15fcd7652b9615a548.jpg",
+    "index.html": "/index.html",
+    "main.5913a7c4.css.map": "/static/css/main.5913a7c4.css.map",
+    "main.2cced468.js.map": "/static/js/main.2cced468.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5913a7c4.css",
+    "static/js/main.2cced468.js"
+  ]
+}
